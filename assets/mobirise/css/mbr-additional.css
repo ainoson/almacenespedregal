@@ -2991,34 +2991,8 @@ section.lazy-placeholder:after {
   order: 2;
   font-size: 1.5rem;
 }
-.cid-spgvOxK13Q .google-map {
-  height: 30rem;
-  position: relative;
-}
-.cid-spgvOxK13Q .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-spgvOxK13Q .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-spgvOxK13Q .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-spgvOxK13Q .google-map[data-state='loading'] [data-state-details] {
-  display: none;
-}
 .cid-spgwiG61SR {
-  padding-top: 60px;
+  padding-top: 75px;
   padding-bottom: 75px;
   background-color: #ffffff;
 }
